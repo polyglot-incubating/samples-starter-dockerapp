@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  
+# to make the spring boot printout colorful.
+#spring.output.ansi.enabled=ALWAYS   
+
+# undertow properties, for more thread (depends on machine)
+#server.undertow.worker-threads=64
+  
